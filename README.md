@@ -13,4 +13,7 @@ Written and tested in Matlab2019b
 
 [full](http://home.ustc.edu.cn/~pjer1316/img/cheatsheet_huge.png) (3.07MB)
 
-The ratio of the figure is 1:1.414 which is exactly the ratio of a A4-paper, so feel free to **Color**-print it.
+The ratio of the figure is 1:1.414 which is exactly the ratio of a A4-paper, so feel free to **Color**-print it.  
+
+
+[更新版在gitee](https://gitee.com/slandarer/matlab-plot-cheat-sheet)
